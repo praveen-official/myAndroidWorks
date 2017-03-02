@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="cmsuite.csez.zohocorpin.com/android//zohocrm_android" value="praveen.kumar" />
+      </map>
+    </option>
+  </component>
+</application>
